@@ -299,7 +299,7 @@
 <div align="center">
   
 <a href="mailto:rayen.salem@tek-up.de" target="_blank">
-<img src="https://banner2.cleanpng.com/20190716/tzv/kisspng-office-365-microsoft-outlook-microsoft-office-micr-1713879420361.webp" width=50 height=50 alt="rayen.salem@tek-up.de" style="margin-bottom: 5px;" />
+<img src="./outlook.png" width=50 height=50 alt="rayen.salem@tek-up.de" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/rayen-salem-14aa38208/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
