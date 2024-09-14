@@ -1,5 +1,5 @@
 <!--Banner-->
-![Rayen Banner Image](./banner.png)
+![Rayen Banner Image](./mybanner.png)
 
 <!--Night Owl image-->
 <div>
